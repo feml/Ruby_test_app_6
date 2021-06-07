@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * Modify readme why can seed git in actions
+
+1. Complete Ruby on Rails Developer by Francisco Montoya
